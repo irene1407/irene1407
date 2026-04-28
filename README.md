@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm SHIRLEY IREN</h1>
 <h3 align="center">Building intelligent solutions with Generative AI and Data Science</h3>
 
-<img align="right" alt="Coding" width="300" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000df0c71fa8ad7db94054f1f02&ts=493713&p=fs&cid=1&sig=ff055cd6aa47ee237166faca0d1a3e20596545a65fe68932dd436999a73fbb94&v=0">
-<p align="left">
+<img align="right" alt="Coding" width="300" src="coder-girl.png">
   <img src="https://komarev.com/ghpvc/?username=irene1407&label=Profile%20views&color=0e75b6&style=flat" alt="irene1407" />
 </p>
 
