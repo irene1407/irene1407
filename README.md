@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/736x/06/a6/5d/06a65d2327d80e5a5765f5d8545208b3.jpg)](https://irene1407.io)
 
-<h1 align="center">Hi 👋, I'm SHIRLEY IREN</h1>
+<h1 align="center">Hi 👋, I'm E SHIRLEY IREN</h1>
 <h3 align="center">Building intelligent solutions with Generative AI and Data Science</h3>
 
 <img align="right" alt="Coding" width="300" src="coder-girl.png">
